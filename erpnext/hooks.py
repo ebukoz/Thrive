@@ -10,7 +10,7 @@ app_color = "#e74c3c"
 app_email = "info@thrivecloud.ng"
 app_license = "GNU General Public License (v3)"
 source_link = "https://github.com/ebukoz/thrive"
-app_logo_url = '/assets/erpnext/images/thrive.svg'
+app_logo_url = '/assets/erpnext/images/erp-icon.svg'
 
 
 develop_version = '12.x.x-develop'
